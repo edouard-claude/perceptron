@@ -1,6 +1,12 @@
-# Golang Perceptron implementation
+Golang Perceptron implementation
+================
 
-### Usage
+![Go](https://github.com/edouard-claude/perceptron/workflows/Go/badge.svg)
+![Go Report Card](https://goreportcard.com/badge/github.com/edouard-claude/perceptron)
+[![codecov](https://codecov.io/gh/github.com/edouard-claude/perceptron/branch/master/graph/badge.svg)](https://codecov.io/gh/github.com/edouard-claude/perceptron)
+
+
+### Play
 
 ```sh
 go run cmd/sample/main.go
