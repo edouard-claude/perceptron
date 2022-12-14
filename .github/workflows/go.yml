@@ -31,5 +31,4 @@ jobs:
         with:
           file: ./coverage.txt
           name: codecov-umbrella
-          fail_ci_if_error: true
-          token: ${{secrets.CODECOV_TOKEN}}
+          fail_ci_if_error: false
